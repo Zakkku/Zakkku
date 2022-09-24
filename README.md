@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zakkku
 - 👀 I’m interested in Japanese stuff
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently learning everything JavaScript
 - 💞️ I’m looking to collaborate on a million dollar app
 - 📫 How to reach me ...YouTube: Zach in Japan 4000+ subscribers
 
