@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything JavaScript
 - 💞️ I’m looking to collaborate on a million dollar app
 - 📫 How to reach me ... Linkedin: https://www.linkedin.com/in/zachary-taylor-782020226/
-YouTube: Zach in Japan 4000+ subscribers
+YouTube: Zach in Japan 4000
 
 <!---
 Zakkku/Zakkku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
