@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zakkku
-- 👀 I’m interested in Japanese stuff
+- 👀 I live in Japan
 - 🌱 I’m currently learning everything JavaScript
-- 💞️ I’m looking to collaborate on a million dollar app
+- 💞️ I’m looking to collaborate on a Million Dollar App
 - 📫 How to reach me ... on my Portfolio Website: https://www.zach-japan.com/
 
 <!---
